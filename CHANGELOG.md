@@ -1,5 +1,12 @@
 # gql.tada
 
+## 1.3.2
+
+### Patch Changes
+
+- Re-export `DocumentDecoration`
+  Submitted by [@kitten](https://github.com/kitten) (See [#113](https://github.com/0no-co/gql.tada/pull/113))
+
 ## 1.3.1
 
 ### Patch Changes
